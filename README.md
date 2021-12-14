@@ -12,7 +12,7 @@ This app is the first of three projects required for Udacity's React Nanodegree 
 
 
 
-- **Live Demo:** [github page]https://slimgabsi.github.io/reactnd-project-myreads/
+- **Live Demo:** [github page](https://slimgabsi.github.io/reactnd-project-myreads/)
 
 
 
